@@ -11,3 +11,7 @@ git push -u origin main
 git remote add origin https://github.com/skmajumder/ph-second-repo.git
 git branch -M main
 git push -u origin main
+
+## Git Branching
+
+git push --set-upstream origin <branch name>
