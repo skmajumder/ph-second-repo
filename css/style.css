@@ -1,3 +1,9 @@
+.header{
+    padding: 40px;
+    margin-top: 20px;
+    box-shadow: 2px 2px 3px #333;
+}
+
 .text-center {
     text-align: center;
 }
